@@ -1,0 +1,62 @@
+.sidebar2 {
+  position: absolute;
+  width: 237px;
+  height: 1587px;
+  left: -2px;
+  top: -5px;
+
+  background: #fafbfd;
+}
+
+.typography {
+  position: absolute;
+  width: 80px;
+  height: 20px;
+  left: 46px;
+  top: 137px;
+
+  font-size: 14px;
+  line-height: 20px;
+
+  color: #9e9e9e;
+}
+
+.button2 {
+  position: absolute;
+  width: 53px;
+  height: 20px;
+  left: 46px;
+  top: 237px;
+
+  font-size: 14px;
+  line-height: 20px;
+
+  color: #9e9e9e;
+}
+
+.inputs2 {
+  position: absolute;
+  width: 45px;
+  height: 20px;
+  left: 46px;
+  top: 287px;
+
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+
+  color: #090f31;
+}
+
+.grid {
+  position: absolute;
+  width: 29px;
+  height: 20px;
+  left: 46px;
+  top: 187px;
+
+  font-size: 14px;
+  line-height: 20px;
+
+  color: #9e9e9e;
+}

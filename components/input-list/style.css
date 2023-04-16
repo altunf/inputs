@@ -1,0 +1,509 @@
+/* LABELS */
+
+.label0 {
+  position: absolute;
+  width: 31px;
+  height: 17px;
+  left: 317px;
+  top: 159px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+
+  color: #333333;
+}
+
+.label1 {
+  position: absolute;
+  width: 31px;
+  height: 17px;
+  left: 587px;
+  top: 159px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+
+  color: #333333;
+}
+
+.label2 {
+  position: absolute;
+  width: 31px;
+  height: 17px;
+  left: 845px;
+  top: 159px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+
+  color: #2962ff;
+}
+
+.label3 {
+  position: absolute;
+  width: 31px;
+  height: 17px;
+  left: 318px;
+  top: 306px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+
+  color: #d32f2f;
+}
+
+.label4 {
+  position: absolute;
+  width: 31px;
+  height: 17px;
+  left: 587px;
+  top: 306px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+
+  color: #333333;
+}
+
+.label5 {
+  position: absolute;
+  width: 31px;
+  height: 17px;
+  left: 845px;
+  top: 306px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+
+  color: #d32f2f;
+}
+
+.label6 {
+  position: absolute;
+  width: 31px;
+  height: 17px;
+  left: 317px;
+  top: 453px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+
+  color: #333333;
+}
+
+.label7 {
+  position: absolute;
+  width: 31px;
+  height: 17px;
+  left: 317px;
+  top: 600px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+
+  color: #333333;
+}
+
+.label8 {
+  position: absolute;
+  width: 31px;
+  height: 17px;
+  left: 673px;
+  top: 600px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+
+  color: #d32f2f;
+}
+
+.label9 {
+  position: absolute;
+  width: 31px;
+  height: 17px;
+  left: 317px;
+  top: 762px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+
+  color: #333333;
+}
+
+.label10 {
+  position: absolute;
+  width: 31px;
+  height: 17px;
+  left: 673px;
+  top: 762px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+
+  color: #333333;
+}
+
+.label11 {
+  position: absolute;
+  width: 31px;
+  height: 17px;
+  left: 319px;
+  top: 909px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+
+  color: #333333;
+}
+
+.label12 {
+  position: absolute;
+  width: 31px;
+  height: 17px;
+  left: 319px;
+  top: 1056px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+
+  color: #333333;
+}
+
+.label13 {
+  position: absolute;
+  width: 31px;
+  height: 17px;
+  left: 676px;
+  top: 1056px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+
+  color: #333333;
+}
+
+.label14 {
+  position: absolute;
+  width: 31px;
+  height: 17px;
+  left: 319px;
+  top: 1203px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+
+  color: #333333;
+}
+
+.label15 {
+  position: absolute;
+  width: 31px;
+  height: 17px;
+  left: 317px;
+  top: 1350px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+
+  color: #333333;
+}
+
+/* TYPES */
+
+.type0 {
+  position: absolute;
+  width: 54px;
+  height: 12px;
+  left: 317px;
+  top: 131px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #333333;
+}
+.type1 {
+  position: absolute;
+  width: 42px;
+  height: 12px;
+  left: 587px;
+  top: 131px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #828282;
+}
+.type2 {
+  position: absolute;
+  width: 42px;
+  height: 12px;
+  left: 845px;
+  top: 131px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  /* identical to box height */
+
+  /* Gray 3 */
+
+  color: #828282;
+}
+.type3 {
+  position: absolute;
+  width: 90px;
+  height: 12px;
+  left: 317px;
+  top: 278px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #333333;
+}
+.type4 {
+  position: absolute;
+  width: 42px;
+  height: 12px;
+  left: 587px;
+  top: 278px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  /* identical to box height */
+
+  /* Gray 3 */
+
+  color: #828282;
+}
+.type5 {
+  position: absolute;
+  width: 42px;
+  height: 12px;
+  left: 587px;
+  top: 278px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  /* identical to box height */
+
+  /* Gray 3 */
+
+  color: #828282;
+}
+.type6 {
+  position: absolute;
+  width: 108px;
+  height: 12px;
+  left: 317px;
+  top: 425px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #333333;
+}
+.type7 {
+  position: absolute;
+  width: 264px;
+  height: 12px;
+  left: 317px;
+  top: 572px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #333333;
+}
+.type8 {
+  position: absolute;
+  width: 300px;
+  height: 12px;
+  left: 673px;
+  top: 572px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #333333;
+}
+.type9 {
+  position: absolute;
+  width: 114px;
+  height: 12px;
+  left: 318px;
+  top: 738px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #333333;
+}
+.type10 {
+  position: absolute;
+  width: 102px;
+  height: 12px;
+  left: 673px;
+  top: 737px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #333333;
+}
+.type11 {
+  position: absolute;
+  width: 132px;
+  height: 12px;
+  left: 319px;
+  top: 881px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #333333;
+}
+.type12 {
+  position: absolute;
+  width: 114px;
+  height: 12px;
+  left: 319px;
+  top: 1028px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #333333;
+}
+.type13 {
+  position: absolute;
+  width: 114px;
+  height: 12px;
+  left: 676px;
+  top: 1028px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #333333;
+}
+.type14 {
+  position: absolute;
+  width: 114px;
+  height: 12px;
+  left: 319px;
+  top: 1175px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #333333;
+}
+.type15 {
+  position: absolute;
+  width: 162px;
+  height: 12px;
+  left: 317px;
+  top: 1322px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #333333;
+}

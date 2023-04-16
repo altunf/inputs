@@ -1,0 +1,10 @@
+.logo {
+  position: absolute;
+  width: 114px;
+  height: 20px;
+  left: 48px;
+  top: 38px;
+
+  font-size: 13px;
+  line-height: 20px;
+}
