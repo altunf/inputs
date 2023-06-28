@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Inputs</h1>
 
-## Getting Started
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
 
-First, run the development server:
+<div align="center">
+  <h3>
+    <a href="https://inputs-three.vercel.app/" target="_blank">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/TSqutYM4c5WtluM7QzGp" target="_blank">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- OVERVIEW -->
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Overview
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
+![inputs](https://github.com/altunf/inputs/assets/116505991/3f49f7a8-00ea-4aa4-8eb5-0a0c76520e27)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+I have completed this <a href="https://devchallenges.io/challenges/TSqutYM4c5WtluM7QzGp" target="_blank">challenge</a> by creating a reusable input with all the design states and a page showcasing all those states. 
 
-## Learn More
+### Built With
 
-To learn more about Next.js, take a look at the following resources:
+- Next JS
+- React JS
+- TypeScript
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+I fulfilled user stories below:
 
-## Deploy on Vercel
+- User story: I can see error state
+- User story: I can choose to disable input
+- User story: I can choose to have helper text
+- User story: I can choose to have an icon on the left or right (Use Google Icon and at least 5 variants)
+- User story: I can have different input sizes
+- User story: I can have different colors
+- User story: I can choose to have input take the width of the parent
+- User story: I can have multiline input like a textarea
+- User story: When I hover or focus, I can see visual indicators
+- User story: I can still access all input attributes
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## My Portfolio
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- devChallenges.io [portfolio](https://devchallenges.io/portfolio/altunf)
+
